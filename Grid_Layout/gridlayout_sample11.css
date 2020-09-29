@@ -1,0 +1,11 @@
+#container {
+    display: grid;
+    grid-template-rows: 100px 100px;
+    grid-template-columns: 100px 100px 100px;
+}
+#itemA { order: 4; }
+#itemB { order: 2; }
+#itemC { order: 1; }
+#itemD { order: 3; }
+#itemE { order: 6; }
+#itemF { order: 5; }

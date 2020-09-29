@@ -1,0 +1,6 @@
+#container {
+    display: grid;
+    grid-auto-rows: 100px;
+    grid-template-columns: repeat(auto-fit, 100px);
+    justify-content: center; /* グリッド全体を中央に寄せる設定 */
+}
